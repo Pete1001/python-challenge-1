@@ -29,7 +29,7 @@ This project is a Python-based order system for the Variety Food Truck. The syst
    - After selecting items, the customer can choose to continue ordering or finalize the order.
    - Upon finalizing, the program generates a formatted receipt with all items, their prices, quantities, and the total cost.
 
-## Requirements Fulfilled
+## Project Requirements
 
 ### Order System
 
@@ -104,5 +104,4 @@ Total cost: $1.98
 
 ## License
 
-This project is provided as a sample educational exercise and does not include a formal license. Feel free to use and modify the code as needed for educational purposes.
-
+This project is under the GNU General Public License (GPL)

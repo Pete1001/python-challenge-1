@@ -203,3 +203,4 @@ for item in order:
 # 11. Calculate the cost of the order using list comprehension and print it
 total_cost = sum(item["Price"] * item["Quantity"] for item in order)
 print(f"\nTotal cost: ${total_cost:.2f}")
+print("Thank you for your order, y'all come back again!")
